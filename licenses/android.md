@@ -70,7 +70,7 @@ Client][].  See also the dependencies in the [Tailscale CLI][].
  - [github.com/tailscale/netlink](https://pkg.go.dev/github.com/tailscale/netlink) ([Apache-2.0](https://github.com/tailscale/netlink/blob/cabfb018fe85/LICENSE))
  - [github.com/tailscale/tailscale-android](https://pkg.go.dev/github.com/tailscale/tailscale-android) ([BSD-3-Clause](https://github.com/tailscale/tailscale-android/blob/HEAD/LICENSE))
  - [github.com/tailscale/web-client-prebuilt](https://pkg.go.dev/github.com/tailscale/web-client-prebuilt) ([BSD-3-Clause](https://github.com/tailscale/web-client-prebuilt/blob/26bf65339dda/LICENSE))
- - [github.com/tailscale/wireguard-go](https://pkg.go.dev/github.com/tailscale/wireguard-go) ([MIT](https://github.com/tailscale/wireguard-go/blob/cc193a0b3272/LICENSE))
+ - [github.com/amnezia-vpn/amnezia-wg](https://pkg.go.dev/github.com/amnezia-vpn/amnezia-wg) ([MIT](https://github.com/amnezia-vpn/amnezia-wg/blob/cc193a0b3272/LICENSE))
  - [github.com/tcnksm/go-httpstat](https://pkg.go.dev/github.com/tcnksm/go-httpstat) ([MIT](https://github.com/tcnksm/go-httpstat/blob/v0.2.0/LICENSE))
  - [github.com/u-root/uio](https://pkg.go.dev/github.com/u-root/uio) ([BSD-3-Clause](https://github.com/u-root/uio/blob/3e8cd9d6bf63/LICENSE))
  - [github.com/vishvananda/netlink/nl](https://pkg.go.dev/github.com/vishvananda/netlink/nl) ([Apache-2.0](https://github.com/vishvananda/netlink/blob/v1.2.1-beta.2/LICENSE))

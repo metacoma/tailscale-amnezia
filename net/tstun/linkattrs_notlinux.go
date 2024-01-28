@@ -5,7 +5,7 @@
 
 package tstun
 
-import "github.com/tailscale/wireguard-go/tun"
+import "github.com/amnezia-vpn/amnezia-wg/tun"
 
 func setLinkAttrs(iface tun.Device) error {
 	return nil

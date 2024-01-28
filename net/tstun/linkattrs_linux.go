@@ -6,7 +6,7 @@ package tstun
 import (
 	"github.com/mdlayher/genetlink"
 	"github.com/mdlayher/netlink"
-	"github.com/tailscale/wireguard-go/tun"
+	"github.com/amnezia-vpn/amnezia-wg/tun"
 	"golang.org/x/sys/unix"
 )
 

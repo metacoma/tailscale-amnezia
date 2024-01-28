@@ -20,7 +20,7 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
-	"github.com/tailscale/wireguard-go/tun/tuntest"
+	"github.com/amnezia-vpn/amnezia-wg/tun/tuntest"
 	"go4.org/mem"
 	"go4.org/netipx"
 	"gvisor.dev/gvisor/pkg/buffer"

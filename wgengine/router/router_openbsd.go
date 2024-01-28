@@ -10,7 +10,7 @@ import (
 	"net/netip"
 	"os/exec"
 
-	"github.com/tailscale/wireguard-go/tun"
+	"github.com/amnezia-vpn/amnezia-wg/tun"
 	"go4.org/netipx"
 	"tailscale.com/net/netmon"
 	"tailscale.com/types/logger"

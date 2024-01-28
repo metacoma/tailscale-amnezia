@@ -6,7 +6,7 @@ package wgengine_test
 import (
 	"testing"
 
-	"github.com/tailscale/wireguard-go/tun"
+	"github.com/amnezia-vpn/amnezia-wg/tun"
 	"tailscale.com/net/tstun"
 	"tailscale.com/tsd"
 	"tailscale.com/types/logger"

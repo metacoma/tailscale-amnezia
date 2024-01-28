@@ -6,7 +6,7 @@ package wgint
 import (
 	"testing"
 
-	"github.com/tailscale/wireguard-go/device"
+	"github.com/amnezia-vpn/amnezia-wg/device"
 )
 
 func TestPeerStats(t *testing.T) {

@@ -19,7 +19,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/tailscale/wireguard-go/tun"
+	"github.com/amnezia-vpn/amnezia-wg/tun"
 	"github.com/vishvananda/netlink"
 	"go4.org/netipx"
 	"tailscale.com/net/netmon"

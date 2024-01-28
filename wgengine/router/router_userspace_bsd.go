@@ -12,7 +12,7 @@ import (
 	"os/exec"
 	"runtime"
 
-	"github.com/tailscale/wireguard-go/tun"
+	"github.com/amnezia-vpn/amnezia-wg/tun"
 	"go4.org/netipx"
 	"tailscale.com/net/netmon"
 	"tailscale.com/net/tsaddr"

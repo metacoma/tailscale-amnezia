@@ -8,7 +8,7 @@ package tstun
 import (
 	"time"
 
-	"github.com/tailscale/wireguard-go/tun"
+	"github.com/amnezia-vpn/amnezia-wg/tun"
 	"tailscale.com/types/logger"
 )
 
