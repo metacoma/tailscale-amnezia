@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/tailscale/wireguard-go/device"
+	"github.com/amnezia-vpn/amnezia-wg/device"
 	"tailscale.com/syncs"
 	"tailscale.com/types/key"
 	"tailscale.com/types/logger"

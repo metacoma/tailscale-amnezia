@@ -9,7 +9,7 @@ import (
 	"net/netip"
 	"reflect"
 
-	"github.com/tailscale/wireguard-go/tun"
+	"github.com/amnezia-vpn/amnezia-wg/tun"
 	"tailscale.com/net/netmon"
 	"tailscale.com/types/logger"
 	"tailscale.com/types/preftype"

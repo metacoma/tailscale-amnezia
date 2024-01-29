@@ -17,7 +17,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/tailscale/wireguard-go/conn"
+	"github.com/amnezia-vpn/amnezia-wg/conn"
 	"tailscale.com/derp"
 	"tailscale.com/derp/derphttp"
 	"tailscale.com/health"

@@ -42,6 +42,15 @@ func (cfg *Config) ToUAPI(logf logger.Logf, w io.Writer, prev *Config) error {
 	if !prev.PrivateKey.Equal(cfg.PrivateKey) {
 		set("private_key", cfg.PrivateKey.UntypedHexString())
 	}
+	set("jc", "5")
+	set("jmin", "500")
+	set("jmax", "501")
+	set("s1", "30")
+	set("s2", "40")
+	set("h1", "123456")
+	set("h2", "67543")
+	set("h3", "32345")
+	set("h4", "123123")
 
 	old := make(map[key.NodePublic]Peer)
 	for _, p := range prev.Peers {

@@ -7,9 +7,9 @@ import (
 	"io"
 	"sort"
 
-	"github.com/tailscale/wireguard-go/conn"
-	"github.com/tailscale/wireguard-go/device"
-	"github.com/tailscale/wireguard-go/tun"
+	"github.com/amnezia-vpn/amnezia-wg/conn"
+	"github.com/amnezia-vpn/amnezia-wg/device"
+	"github.com/amnezia-vpn/amnezia-wg/tun"
 	"tailscale.com/types/logger"
 	"tailscale.com/util/multierr"
 )

@@ -27,9 +27,9 @@ import (
 	"time"
 	"unsafe"
 
-	wgconn "github.com/tailscale/wireguard-go/conn"
-	"github.com/tailscale/wireguard-go/device"
-	"github.com/tailscale/wireguard-go/tun/tuntest"
+	wgconn "github.com/amnezia-vpn/amnezia-wg/conn"
+	"github.com/amnezia-vpn/amnezia-wg/device"
+	"github.com/amnezia-vpn/amnezia-wg/tun/tuntest"
 	"go4.org/mem"
 	xmaps "golang.org/x/exp/maps"
 	"golang.org/x/net/icmp"

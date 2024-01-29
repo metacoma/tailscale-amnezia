@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/tailscale/wireguard-go/tun"
+	"github.com/amnezia-vpn/amnezia-wg/tun"
 	"tailscale.com/net/netmon"
 	"tailscale.com/types/logger"
 )

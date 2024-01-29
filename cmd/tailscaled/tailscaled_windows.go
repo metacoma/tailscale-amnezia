@@ -36,7 +36,7 @@ import (
 	"time"
 
 	"github.com/dblohm7/wingoes/com"
-	"github.com/tailscale/wireguard-go/tun"
+	"github.com/amnezia-vpn/amnezia-wg/tun"
 	"golang.org/x/sys/windows"
 	"golang.org/x/sys/windows/svc"
 	"golang.org/x/sys/windows/svc/eventlog"

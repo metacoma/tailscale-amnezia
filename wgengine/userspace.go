@@ -17,8 +17,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/tailscale/wireguard-go/device"
-	"github.com/tailscale/wireguard-go/tun"
+	"github.com/amnezia-vpn/amnezia-wg/device"
+	"github.com/amnezia-vpn/amnezia-wg/tun"
 	"tailscale.com/control/controlknobs"
 	"tailscale.com/envknob"
 	"tailscale.com/health"

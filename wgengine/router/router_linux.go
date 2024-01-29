@@ -17,7 +17,7 @@ import (
 	"time"
 
 	"github.com/tailscale/netlink"
-	"github.com/tailscale/wireguard-go/tun"
+	"github.com/amnezia-vpn/amnezia-wg/tun"
 	"go4.org/netipx"
 	"golang.org/x/sys/unix"
 	"golang.org/x/time/rate"

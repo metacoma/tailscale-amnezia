@@ -8,6 +8,7 @@ require (
 	filippo.io/mkcert v1.4.4
 	github.com/akutz/memconn v0.1.0
 	github.com/alexbrainman/sspi v0.0.0-20231016080023-1a75b4708caa
+	github.com/amnezia-vpn/amnezia-wg v0.1.8
 	github.com/andybalholm/brotli v1.1.0
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be
 	github.com/aws/aws-sdk-go-v2 v1.24.1
@@ -71,7 +72,6 @@ require (
 	github.com/tailscale/mkctr v0.0.0-20240102155253-bf50773ba734
 	github.com/tailscale/netlink v1.1.1-0.20211101221916-cabfb018fe85
 	github.com/tailscale/web-client-prebuilt v0.0.0-20240111230031-5ca22df9e6e7
-	github.com/tailscale/wireguard-go v0.0.0-20231121184858-cc193a0b3272
 	github.com/tc-hib/winres v0.2.1
 	github.com/tcnksm/go-httpstat v0.2.0
 	github.com/toqueteos/webbrowser v1.2.0
@@ -118,6 +118,7 @@ require (
 	github.com/gobuffalo/flect v1.0.2 // indirect
 	github.com/google/gnostic-models v0.6.9-0.20230804172637-c7be7c783f49 // indirect
 	github.com/gorilla/securecookie v1.1.2 // indirect
+	github.com/tevino/abool/v2 v2.1.0 // indirect
 )
 
 require (
